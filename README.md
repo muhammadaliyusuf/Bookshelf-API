@@ -1,0 +1,1 @@
+This project allows users to journal their reading lists. It includes features for adding book data to shelves, moving book data between shelves, and deleting book data from shelves. Leveraging Web Storage API such as local storage to keep book data from users.
